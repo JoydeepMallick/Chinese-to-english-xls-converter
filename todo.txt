@@ -1,0 +1,9 @@
+
+Find attached File Order Sheet.xls
+
+This sheet is in Chinese, the following is required to be in Python:
+
+1) Read the existing file
+2) Translate all the text including the headers to English
+3) Need to use local libraries only or free libraries with Unlimited API calls
+4) Speed is key so after running the time it took to translate and save should be printed in the terminal.
